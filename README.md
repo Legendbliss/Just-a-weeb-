@@ -16,7 +16,7 @@
     </header>
     <section>
         <h2>About Me</h2>
-        <p>Hi, I’m [Your Name]. This is my portfolio.</p>
+        <p>Hi, I’m [ram kumar]. This is my portfolio.</p>
     </section>
 </body>
 </html>
